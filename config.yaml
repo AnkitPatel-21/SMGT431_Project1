@@ -1,0 +1,16 @@
+libraries: ["magrittr", "RSQLite", "tidyverse", "dplyr", "knitr", "kableExtra", 
+"broom", "MASS", "grid", "readr", "gridExtra"]
+
+paths:
+  raw: "data/raw/"
+  proc: "data/processed/"
+  plots: "plots/"
+  paper: "paper/"
+
+data:
+  
+paper:
+  sections: ["introduction", "data", "results", "conclusion", "appendix"]
+
+
+
